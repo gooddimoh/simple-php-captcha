@@ -11,4 +11,4 @@ http://labs.abeautifulsite.net/simple-php-captcha/
 ## Attribution
 
  - Special thanks to Subtle Patterns for the patterns used for default backgrounds: http://subtlepatterns.com/
- - Special thanks to dafont.com for providing Times New Yorker: http://www.dafont.com/
+ - Special thanks to dafont.com for providing Times New Yorker: http://www.dafont.com/# simple-php-captcha
